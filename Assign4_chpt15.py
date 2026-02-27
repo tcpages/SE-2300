@@ -17,3 +17,10 @@ def determine_discount(category, membership_status):
 
 # Example usage
 print(determine_discount("electronics", "premium"))
+
+"""
+For this code I change mainly the entire strategy to approach obtaining the discount value.
+From the instructions, I started by creating a dictionary with the associated key and value pairs that were
+in each of the varying if and else statements from the original code. I then use concatenation to 
+create the key which is then used in the return statement to provide its associated value.
+"""
