@@ -18,9 +18,9 @@ print(calculate_total_price(10, 5.0, 0.1, 0.08))
 
 
 """
-For this code, I increase maintainability and readability by changing variable names, adding informative comments, and 
-simplifing and breaking down the formula used in the function to calculate the total price of the products. 
-The variable q was changed to say quantity to be more specific.
+For this code, I increase maintainability and readability by changing variable names, adding informative 
+comments, and simplifing and breaking down the formula used in the function to calculate the total 
+price of the products. The variable q was changed to say quantity to be more specific.
 Instantiated 3 more variables that act as simplified parts to the formula for total price.
 These 3 variables are then used to show the formula before the final value is returned.
 """
